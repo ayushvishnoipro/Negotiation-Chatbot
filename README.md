@@ -7,6 +7,12 @@ This chatbot uses Google’s Gemini Generative AI model to create dynamic and fl
 
 ---
 
+## **Interface**
+Starting UI:
+
+![image](https://github.com/user-attachments/assets/0886ce4b-6fea-4643-b692-a3b765282f45)
+
+
 ## **Key Features**
 - **Product Negotiation**: Users can negotiate the price of a product by offering different prices.
 - **Real-Time Interaction**: The AI responds in real-time, justifying the price based on various factors.
@@ -28,8 +34,8 @@ This chatbot uses Google’s Gemini Generative AI model to create dynamic and fl
 ### **Steps to Install**
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/negotiation-chatbot.git
-    cd negotiation-chatbot
+    git clone https://github.com/ayushvishnoipro/Negotiation-Chatbot
+    cd Negotiation-Chatbot
     ```
 
 2. **Install Dependencies**:
@@ -49,6 +55,7 @@ This chatbot uses Google’s Gemini Generative AI model to create dynamic and fl
     ```
 
 ---
+
 
 ## **Usage**
 Once the application is running, you will be able to interact with the AI chatbot in a web interface.
