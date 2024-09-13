@@ -63,4 +63,46 @@ Once the application is running, you will be able to interact with the AI chatbo
 ## **Project Structure**
 - **app.py**: The main file that runs the Streamlit application.
 - **requirements.txt**: Lists all the required dependencies.
-- **README.md**: This file containing instructions and project
+- **README.md**: This file containing instructions and project details.
+- **assets/**: Folder containing static assets like icons, images, etc.
+
+---
+
+## **Demo**
+You can view a demo of the AI chatbot in action on YouTube: [Demo Link](https://www.youtube.com)
+
+---
+
+## **Configuration**
+- **Product Features**: You can modify the product name, base price, and features in the `Product` class in `app.py`.
+- **API Key**: Replace the placeholder API key in `app.py` with your own Google Gemini API key.
+- **Customization**: Adjust the chatbot’s behavior, max rounds, discount ranges, and more by tweaking the parameters in the `NegotiationChatbot` class.
+
+---
+
+## **Technologies Used**
+- **Python**: The programming language used to develop the application.
+- **Streamlit**: For creating the interactive web-based UI.
+- **Google Generative AI (Gemini)**: The AI model used for generating dynamic chatbot responses.
+- **Random Module**: For generating dynamic competitor prices and customer loyalty levels.
+
+---
+
+## **Contributing**
+Contributions are welcome! If you find any issues or want to improve the project, feel free to submit a pull request. Please make sure your changes are properly documented and tested.
+
+---
+
+## **License**
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## **Contact**
+If you have any questions or feedback, feel free to reach out:
+
+- **Email**: youremail@example.com
+- **GitHub**: [https://github.com/yourusername](https://github.com/yourusername)
+- **YouTube Demo**: [https://youtube.com/your-demo-link](https://youtube.com/your-demo-link)
+
+---
